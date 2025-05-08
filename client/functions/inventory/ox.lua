@@ -1,4 +1,6 @@
 
+if Config.Inventory ~= 'ox' then return end
+
 function functions.HasItem(item, amount)
     local item_count = exports.ox_inventory:GetItemCount(item)
     if Config.Debug then

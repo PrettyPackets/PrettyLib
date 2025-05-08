@@ -21,7 +21,7 @@ function functions.RemoveItem(src, item, amount, reason)
 end exports('RemoveItem', RemoveItem)
 
 
-
+if Config.Inventory ~= 'ox' then return end
 
 function functions.DynamicStash(src, id, slots, weight, label)
     if Config.Debug then
