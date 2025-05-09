@@ -3,6 +3,11 @@
 Welcome to the **PrettyPackets Compatibility Library**! 🎀  
 This library is designed to simplify cross-framework support for **FiveM** developers working with **ESX**, **QBCore**, and **QBox**, as well as various inventory systems like **OX Inventory** and **QB Inventory**.
 
+## 💬 Stay Connected!
+For the latest tea ☕ on updates, sneak peeks 👀, and to hang out with other cuties building PrettyPacketAC, join our **official Discord**! 🎀✨
+
+👉 [Join our Discord! 💬](https://discord.gg/XFwW3U42rK)
+
 ---
 
 ## ✨ Purpose
