@@ -6,7 +6,7 @@ name "PrettyPacketLib"
 author "PrettyPacket"
 
 
-version "0.0.1"
+version "0.0.3"
 
 shared_scripts {
     "shared/*.lua",
