@@ -1,7 +1,7 @@
 
 if Config.Inventory ~= 'ox' then return end
 
-function functions.HasItem(item, amount)
+function functions.Inventory.HasItem(item, amount)
     local item_count = exports.ox_inventory:GetItemCount(item)
     if Config.Debug then
         print("PrettyLib - HasItem - " .. item .. " - " .. amount .. " - Results: " .. tostring(item_count))
